@@ -1,0 +1,21 @@
+#groupButton { 
+    color: grey;
+    background-color: transparent; 
+    font-size: 22px;
+}
+#groupButton:hover {
+    color: black;
+}
+#groupButton:checked {
+    color: black;
+    background-color: transparent;
+}
+#groupButton:checked:hover {
+    color: grey;
+}
+
+#groupLabel { 
+    color: black;
+    background-color: transparent; 
+    font-size: 18px;
+}

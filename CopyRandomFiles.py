@@ -1,5 +1,13 @@
-#! python
-# Mandala.py - Copies a set number of random files from a single directory to a new directory
+# Copies random files from point A to point B
+# Available filters:
+#   File size
+#   Audio duration
+#   File name
+#   File type
+#   File "weight"
+#   Option to create folder(s) in point B
+#   Option to rename copied files
+#   Option to delete files and folders to trash
 
 import timeit
 import cProfile

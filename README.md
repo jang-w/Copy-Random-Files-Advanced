@@ -12,7 +12,7 @@
 
 ## THIS IS A WORK IN PROGRESS
 
-*As if 8/28/2021, Copy Random Files is fully functional, but the UI is not yet fully realized.*
+*As of 8/28/2021, Copy Random Files is fully functional, but the UI is not yet fully realized.*
 
 *A Lite version of the program is being actively worked on to set an aesthetic direction for this main version.*
 

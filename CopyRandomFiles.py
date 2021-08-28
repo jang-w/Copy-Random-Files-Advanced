@@ -7,7 +7,7 @@
 #   File "weight"
 #   Option to create folder(s) in point B
 #   Option to rename copied files
-#   Option to delete files and folders to trash
+#   Option to delete files and folders at runtime
 
 import timeit
 import cProfile
